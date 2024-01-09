@@ -1,0 +1,11 @@
+C:\Mphasis\Simplilearn-P4\Day-3\TestProjectOne\SignInLib\bin\Debug\net6.0\SignInLib.deps.json
+C:\Mphasis\Simplilearn-P4\Day-3\TestProjectOne\SignInLib\bin\Debug\net6.0\SignInLib.dll
+C:\Mphasis\Simplilearn-P4\Day-3\TestProjectOne\SignInLib\bin\Debug\net6.0\SignInLib.pdb
+C:\Mphasis\Simplilearn-P4\Day-3\TestProjectOne\SignInLib\obj\Debug\net6.0\SignInLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mphasis\Simplilearn-P4\Day-3\TestProjectOne\SignInLib\obj\Debug\net6.0\SignInLib.AssemblyInfoInputs.cache
+C:\Mphasis\Simplilearn-P4\Day-3\TestProjectOne\SignInLib\obj\Debug\net6.0\SignInLib.AssemblyInfo.cs
+C:\Mphasis\Simplilearn-P4\Day-3\TestProjectOne\SignInLib\obj\Debug\net6.0\SignInLib.csproj.CoreCompileInputs.cache
+C:\Mphasis\Simplilearn-P4\Day-3\TestProjectOne\SignInLib\obj\Debug\net6.0\SignInLib.dll
+C:\Mphasis\Simplilearn-P4\Day-3\TestProjectOne\SignInLib\obj\Debug\net6.0\refint\SignInLib.dll
+C:\Mphasis\Simplilearn-P4\Day-3\TestProjectOne\SignInLib\obj\Debug\net6.0\SignInLib.pdb
+C:\Mphasis\Simplilearn-P4\Day-3\TestProjectOne\SignInLib\obj\Debug\net6.0\ref\SignInLib.dll
